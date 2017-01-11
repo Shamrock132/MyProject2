@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		},
+		{
+			"Name": "UnrealJS",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/be751eedc4a14cc09e39945bc5a531c4"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
